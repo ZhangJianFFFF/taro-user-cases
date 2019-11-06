@@ -475,7 +475,23 @@ const userCases = {
     {
       name: "AI预诊",
       url: "https://user-images.githubusercontent.com/3080820/66974120-bb6d2e00-f0cc-11e9-8e9c-113ab77d94a8.png"
-    }
+    },
+    {
+      name: "广东人才培训网",
+      url: "https://mp.weixin.qq.com/wxopen/qrcode?action=download&fakeid=3848124952&token=785683430&type=2&pixsize=224&line_r=undefined&line_g=undefined&line_b=undefined"
+    },
+     {
+      name: "爱眼医生",
+      url: "https://mp.weixin.qq.com/wxopen/qrcode?action=download&fakeid=3855090408&token=2021550176&type=2&pixsize=224&line_r=undefined&line_g=undefined&line_b=undefined"
+    },
+    {
+      name: "爱眼医生医生端",
+      url: "https://mp.weixin.qq.com/wxopen/qrcode?action=download&fakeid=3846097908&token=57870048&type=2&pixsize=224&line_r=undefined&line_g=undefined&line_b=undefined"
+    },
+    {
+      name: "爱眼医助",
+      url: "https://mp.weixin.qq.com/wxopen/qrcode?action=download&fakeid=3801097868&token=202081610&type=2&pixsize=224&line_r=undefined&line_g=undefined&line_b=undefined"
+    },
   ],
   H5: [
     {
